@@ -26,7 +26,7 @@ Some processed data can be found here: https://pan.baidu.com/s/14xwd8YeTFk_LDKVn
 - run ```python3 predict_cam&pic.py``` to predict faces in camera or video
 
 ### Results
-I find 5 images(happy,happy,suprised,disgusted,surprised) in [MS emotion_recognition API](https://azure.microsoft.com/zh-cn/services/cognitive-services/face/#recognition) and use them to test model.
+I find 5 images(happy, sad,suprised,disgusted,surprised) in [MS emotion_recognition API](https://azure.microsoft.com/zh-cn/services/cognitive-services/face/#recognition) and use them to test model.
 
 ![pics/1happy.jpg](pics/1happy.jpg)![pics/2happy.jpg](pics/2happy.jpg)![pics/3surprised.jpg](pics/3surprised.jpg)![pics/4disguested.jpg](pics/4disguested.jpg)![pics/5surprised.jpg](pics/5surprised.jpg)
 
